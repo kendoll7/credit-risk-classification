@@ -1,5 +1,7 @@
 # credit-risk-classification
-module-20-challenge
+module-20-challenge 
+
+Used intructor videos and supervised learning notebooks to complete this assignment
 
 # Module 12 Report Template
 
