@@ -1,6 +1,3 @@
-# credit-risk-classification
-module-20-challenge
-
 # Module 12 Report Template
 
 ## Overview of the Analysis
